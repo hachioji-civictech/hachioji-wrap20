@@ -5,5 +5,5 @@
 ## アプリ
 
 - [A/B/Cグループ集約マップ](https://ss.sabae.cc/#834)
-- [画像URLと合わせたCSWを使ったマップ](https://ss.sabae.cc/#836)
+- [画像URLと合わせたCSVを使ったマップ](https://ss.sabae.cc/#836)
 
